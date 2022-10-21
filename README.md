@@ -13,6 +13,7 @@ made by: secret_pommes
 you can change things in the code but PLEASE dont use the header.png [the Project Lumiend background].
 and you can made the code public and make your own website with this code.
 you don't need to make credits: secret_pommes or etc.
+(btw this is a shit website)
 _________________________________________________________________________________________________________________________
 WEBSITE:
-https://api-lumiend.herokuapp.com
+https://api-lumiend.herokuapp.com <== Server/Backend is offline, since the shutdown of the project
